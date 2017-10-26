@@ -1,5 +1,7 @@
 title: Dear Nat
 description: This is a love letter.
 show_downloads: false
+github.is_project_page: false
+github.is_user_page: false
 google_analytics:
 theme: jekyll-theme-minimal
