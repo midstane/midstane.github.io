@@ -210,5 +210,5 @@ So please
 
 Please let me
 
-![](/image-1.jpg)
-![](/image.jpg)
+![](/image-1.JPG)
+![](/image.JPG)
