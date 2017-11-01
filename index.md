@@ -2,122 +2,213 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This is a love letter
 
-[Link to another page](another-page).
+(that’s probably long overdue)
 
-There should be whitespace between paragraphs.
+&nbsp;
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+When I thought about a moment like this,
 
-# [](#header-1)Header 1
+(I usually don’t but when I do)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I thought about maybe some families and friends,
 
-## [](#header-2)Header 2
+Or some movies and songs
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+You know, possibilities
 
-### [](#header-3)Header 3
+&nbsp;
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+But nothing really matters after all if you really think about it
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Nothing really matters when it is you
 
-#### [](#header-4)Header 4
+That I think about
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+&nbsp;
 
-##### [](#header-5)Header 5
+No crowds or flowers
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Just you and me
 
-###### [](#header-6)Header 6
+(And maybe a little windy)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Right here
 
-### There's a horizontal rule below this.
+Right now
 
-* * *
+&nbsp;
 
-### Here is an unordered list:
+Dear Nat
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+It’s been an incredible 3 years, well over 1000 days
 
-### And an ordered list:
+Not a single day of which passed that I wasn’t glad I have you with me
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+Even during the difficulties or fights
 
-### And a nested list:
+Especially during the difficulties or fights
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+( that’s not to say I want more fights, just so we are clear…)
 
-### Small image
+&nbsp;
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+As cliché as it may sound
 
-### Large image
+I become a better version of myself
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+To families, to strangers, to life, to the future, and of course, to puppies 🐶
 
+I was all alone for so many years
 
-### Definition lists can be used with HTML syntax.
+Until you showed up and provided partnership
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+(Which started as relationship but then evolved to have included friendship and mentorship)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+&nbsp;
 
-```
-The final element.
-```
+There were days I was hesitant but you were patient
+
+There were days I was afraid but you waited
+
+&nbsp;
+
+It was like AirPods or retina displays
+
+You didn’t know you need it until you had it
+
+And then you can never live without it
+
+Can you imagine a life without retina displays?
+
+That life would be incomplete
+
+&nbsp;
+
+So before a lover letter,
+
+This is also a thank you letter
+
+Thanks for all the days and nights
+
+Thanks for all the laughters and tears
+
+Thanks for all the arguments and complains
+
+Thanks for all the trusts and hugs
+
+Thanks
+
+&nbsp;
+
+Dear Nat
+
+There will be a lot more 3 years
+
+There would be a lot uncertainties
+
+But I want it to be certain
+
+&nbsp;
+
+If I am to go to more beaches, I want to go to the beaches with you
+
+Like what we did in Vietnam
+
+If I am to go to more hot springs, I want to go to hot springs with you
+
+Like what we did in Japan
+
+If I am to watch more fireworks, I want to watch fireworks with you
+
+Like what we did in Hong Kong
+
+If I am to go to more amusement parks, I want to go to parks with you
+
+Like what we did in Singapore
+
+If I am to take more trains, I want to take trains with you
+
+Like what we did in Italy
+
+If I am to have more McDonald, I want to have McDonald with you
+
+Like what we did yesterday in Time Square
+
+If I am to watch more museums, I want to watch museums with you
+
+Like what we did today in The Met
+
+If I am to spend more quality time with families, I want to spend the time with you
+
+Like what we did in Fremont Cali
+
+&nbsp;
+
+If
+
+I am to spend the life with someone
+
+I want to spend the life with you
+
+Like what we did in the past 3 years
+
+&nbsp;
+
+If you have to quote Shakespeare in a love letter
+
+Here is how I would quote him now
+
+I would not wish any companion in the world but you
+
+&nbsp;
+
+3 years ago
+
+You said something to me
+
+You said something
+
+That blew me away
+
+That I told myself I shall never forget
+
+That 3 years later at this very moment I want to say to you
+
+&nbsp;
+
+**_Today, you are the one I want to spend the life with_**
+
+&nbsp;
+
+I love you
+
+I love you more than the egos and paranoids I have
+
+I love you more than the difficulties and fights we will have
+
+I love you because I am a better person when I’m with you
+
+I love you because I want to
+
+&nbsp;
+
+I want to learn to cook
+
+I want to learn to drive
+
+I want to learn to be a better man in my life
+
+I want to learn to be a better man in your life
+
+I want to learn to better love you
+
+I want to learn to continue to love you
+
+So please
+
+Please let me
+
+![](image-1.jpg)
+![](image.jpg)

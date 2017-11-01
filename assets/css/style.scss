@@ -2,3 +2,21 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+body {
+  background-color: #fff;
+  padding:50px;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#727272;
+  font-weight:400;
+}
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 15px;
+}
+
+section {
+  width:500px;
+  float:right;
+  padding-bottom:50px;
+}
