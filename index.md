@@ -210,8 +210,8 @@ So please
 
 Please let me
 
-![](/image-1.JPG)
-![](/image.JPG)
+![](/IMAGE-1.JPG)
+![](/IMAGE.JPG)
 
 So
 
