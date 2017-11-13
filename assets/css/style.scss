@@ -6,7 +6,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 sans-serif;
   color:#727272;
   font-weight:400;
 }
@@ -18,7 +18,7 @@ p, ul, ol, table, pre, dl {
 @media print, screen and (max-width: 960px) {
 
 body {
-  padding:30px;
+  padding:15px;
 }
 
   section {

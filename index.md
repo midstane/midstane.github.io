@@ -86,7 +86,7 @@ That life would be incomplete
 
 &nbsp;
 
-So before a lover letter,
+So before a love letter,
 
 This is also a thank you letter
 
@@ -160,7 +160,7 @@ If you have to quote Shakespeare in a love letter
 
 Here is how I would quote him now
 
-I would not wish any companion in the world but you
+_I would not wish any companion in the world but you_
 
 &nbsp;
 
